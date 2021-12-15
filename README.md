@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anthony</h1>
 <h3 align="center">A full stack developer from Montréal, Québec</h3>
 
-- 🌱 I’m currently learning **React, tailwind, MaterialUI**
+- 🌱 I’m currently learning **React, firebase, MaterialUI, Typescript**
 
-- 💬 Ask me about **coffeescript, javascript, Backbone.js, mongoDB, docker, node.js, pug, express**
+- 💬 Ask me about **coffeescript, javascript, Backbone.js, mongoDB, docker, node.js, pug, express, selenium**
 
 - 📫 How to reach me **anthonylaflammex@gmail.com**
 
