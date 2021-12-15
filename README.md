@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Anthony</h1>
-<h3 align="center">A full stack developer from Montréal, Québec</h3>
+<h1 align="center">Hi 👋</h1>
+<h3 align="center">I'm a full stack developer from Montréal, Québec</h3>
 
 - 🌱 I’m currently learning **React, firebase, MaterialUI, Typescript**
 
