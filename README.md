@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **anthonylaflammex@gmail.com**
 
-- ⚡ Fun fact **I don't like snow**
+- ⚡ Fun fact **I don't like snow but I like snowboarding**
 
 
 <h3 align="left">Languages and Tools:</h3>
